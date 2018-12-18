@@ -199,7 +199,7 @@ them both to 0; an emulation function will be used. */
    which are internal to the library. */
 /* #undef PCRE_EXP_DEFN */
 
-/* Define if linking statically (TODO: make nice with Libtool) */
+/* Define if linking statically (make nice with Libtool) */
 /* #undef PCRE_STATIC */
 
 /* When calling PCRE via the POSIX interface, additional working storage is
